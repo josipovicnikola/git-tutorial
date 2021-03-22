@@ -1,6 +1,6 @@
 Test pusha
 
-edit fajla u kompu
+editzz fajla u kompu
 
 Edit maina u gitu
 
